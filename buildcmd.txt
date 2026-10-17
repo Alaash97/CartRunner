@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra -pedantic -I DinoGame/include DinoGame/src/*.cpp -o DinoGame/build/CartRunner.exe
